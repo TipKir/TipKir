@@ -1,4 +1,8 @@
 ### Hi there 👋
+<h1 align="center">Привет!, меня зовут Кирилл</a> И я аналитик данных 
+<i height="32"/></h1>
+<h3 align="center">
+
 
 <!--
 **TipKir/TipKir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
